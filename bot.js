@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : TheBeast ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`streaming`,"http://twitch.tv/Death Shop")
+client.user.setGame(`𝗠𝗼𝗻𝘀𝘁𝗲𝗿𝘀 𝗘-𝗦𝗽𝗼𝗿𝘁𝘀`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
